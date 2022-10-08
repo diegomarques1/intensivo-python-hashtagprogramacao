@@ -32,5 +32,5 @@ Todos os arquivos foram fornecidos pela Hashtag Programação, tanto o arquivo i
 ### 06_10 - Machine Learning e Data Science/Aula 4
 
 - Projeto de ciência de dados com inteligência artificial para entender e prever as vendas de acordo com investimentos em TV, rádio e jornal de uma empresa.
-- Modelos utilizzados: Regressão Linear, Random Forest
-- Bibliotecas utilizadas: pandas, matplotlib, seaborn, scikit-learn
+- Modelos utilizzados: Regressão Linear, Random Forest.
+- Bibliotecas utilizadas: pandas, matplotlib, seaborn, scikit-learn.
